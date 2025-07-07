@@ -10,8 +10,8 @@
 #include <signal.h>
 
 // // Constants
-// const int kDataPin = 5; // placeholder for now
-// const int kClockPin = 6;
+// const int kDataPin = 6; // placeholder for now
+// const int kClockPin = 5;
 // const int kSampleTimes = 10;
 
 // Forward declaration
